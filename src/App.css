@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+} 
+
+
+
+.MainStats{
+  background-color: #002b36;
+  width:fit-content;
+  text-align: center;
+  margin:auto;
+  padding: 10px;
+  width: 400px;
+  height: 100px;
+  color: #fdf6e3;
+  line-height:10px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+
+button {
+  width: 100px;
+  height: 30px;
+  color: black;
+  text-rendering: auto;
+  margin-left: 20px;
+}
+
+form {
+  align-items: center;
+  padding: 20px;
+  align-self: center;
+}
